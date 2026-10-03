@@ -3,5 +3,5 @@
 https://example.com/test1.m3u8
 #EXTINF:-1 group-title="Test", TEST 2
 https://example.com/test2.m3u8
-#EXTINF:-1 group-title="Football", TEST 3
-https://example.com/test3.flv
+#EXTINF:-1 group-title="Football",05:00 - 03/10 - Alamos Fc Vs Cd Muxes - HD 1
+https://example.com/test3.m3u8
