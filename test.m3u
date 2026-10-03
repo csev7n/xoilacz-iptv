@@ -4,4 +4,4 @@ https://example.com/test1.m3u8
 #EXTINF:-1 group-title="Test", TEST 2
 https://example.com/test2.m3u8
 #EXTINF:-1 group-title="Football",14:30 - 03/10 - Anyang Jungkwanjang Vs Ulsan Phoebus - KOBE
-https://live2.zundrixmediapipeline.com/live/channel27.flv#.m3u8
+https://live2.zundrixmediapipeline.com/live/channel27.flv?ext=.m3u8
