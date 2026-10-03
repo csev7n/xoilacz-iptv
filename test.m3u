@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="Test",Test 1
+https://example.com/test1.m3u8
+#EXTINF:-1 group-title="Test",Test 2
+https://example.com/test2.m3u8
