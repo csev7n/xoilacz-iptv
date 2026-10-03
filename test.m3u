@@ -3,5 +3,5 @@
 https://example.com/test1.m3u8
 #EXTINF:-1 group-title="Test", TEST 2
 https://example.com/test2.m3u8
-#EXTINF:-1 group-title="Football",10:00 - 03/10 - Alex De Minaur Vs Quentin Halys - HD 1
-https://live1.quickscoreboardz.com/live/channel54.flv?wsSecret=a1ba6067244fd5842709f368a27a810e&wsABSTime=1791036937
+#EXTINF:-1 group-title="Football",14:30 - 03/10 - Anyang Jungkwanjang Vs Ulsan Phoebus - KOBE
+https://live2.zundrixmediapipeline.com/live/channel27.flv
