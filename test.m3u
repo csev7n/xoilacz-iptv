@@ -4,4 +4,4 @@ https://example.com/test1.m3u8
 #EXTINF:-1 group-title="Test", TEST 2
 https://example.com/test2.m3u8
 #EXTINF:-1 group-title="Football", TEST 3
-https://live1.quickscoreboardz.com/live/channel29.flv?wsSecret=64b9f3f37bcf1026fcf0ed77fc8fb0ea&wsABSTime=1791025928
+https://live1.quickscoreboardz.com/live/channel29.flv
