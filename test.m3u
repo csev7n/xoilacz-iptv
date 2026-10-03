@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="Football",test
+#EXTINF:-1 group-title="Test", TEST 1
 https://example.com/test1.m3u8
+#EXTINF:-1 group-title="Test", TEST 2
+https://example.com/test2.m3u8
+#EXTINF:-1 group-title="Football", TEST 3
+https://example.com/test3.m3u8
