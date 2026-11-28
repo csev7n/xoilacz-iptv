@@ -1,249 +1,94 @@
 #EXTM3U
-#EXTINF:-1 group-title="Tennis",22:10 - 28/11 - EDUARDO RIBEIRO VS JUAN MANUEL LA SERNA - HD 1
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel53/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel53/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel53.flv?wsSecret=41b8d0a3b3e53d9577df1dca7df1b69f&wsABSTime=1795936866
-#EXTINF:-1 group-title="Esports",00:00 - 29/11 - BABOS GAMING VS VFB ESPORTS - MARTY
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel30/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel30/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live3979.zundrixmediapipeline.com/live/channel30.flv
-#EXTINF:-1 group-title="Esports",00:00 - 29/11 - BABOS GAMING VS VFB ESPORTS - HD MARTY
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-30/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-30/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-30.flv?auth_key=3000001795893599-0-0-3c33c287804a0b43eb1147b887e9ef26
 #EXTINF:-1 group-title="Volleyball",00:00 - 29/11 - RZESZOW VS GKS KATOWICE - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel82/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel82/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel82.flv?wsSecret=b207a15128ac56a9622aecc1a8de0546&wsABSTime=1795937093
-#EXTINF:-1 group-title="Football",00:30 - 29/11 - AL AHLI SC VS AL TAAWOUN - POLO
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel10/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel10/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live3979.zundrixmediapipeline.com/live/channel10.flv
-#EXTINF:-1 group-title="Football",00:30 - 29/11 - AL AHLI SC VS AL TAAWOUN - HD POLO
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-10/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-10/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-10.flv?auth_key=3000001795893581-0-0-43d4b4a1fae115cf876f619f589aa019
-#EXTINF:-1 group-title="Football",00:30 - 29/11 - AVENIR FOOT LOZERE VS MONTPELLIER - HD 1
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel16/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel16/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel16.flv?wsSecret=40913a209f1cbed4bcaa4462d24a38f8&wsABSTime=1795936790
-#EXTINF:-1 group-title="Football",00:30 - 29/11 - CHARLOTTE FC VS CHICAGO FIRE - HD 1
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel33/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel33/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel33.flv?wsSecret=ca4b3e1542f9bd04dfa00c4850eb9197&wsABSTime=1795936813
-#EXTINF:-1 group-title="Football",00:30 - 29/11 - EIBAR VS BURGOS CF - HD 1
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel14/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel14/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel14.flv?wsSecret=5dba046ddeb79184d2faf0024e0856a6&wsABSTime=1795936869
-#EXTINF:-1 group-title="Football",00:30 - 29/11 - ELCHE CF VS ATLETICO MADRID - NICK
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel5/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel5/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live3979.zundrixmediapipeline.com/live/channel5.flv
-#EXTINF:-1 group-title="Football",00:30 - 29/11 - ELCHE CF VS ATLETICO MADRID - HD NICK
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-5/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-5/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-5.flv?auth_key=3000001795893676-0-0-2d9c0243883b2ed611c8c876c327c866
-#EXTINF:-1 group-title="Football",00:30 - 29/11 - IPSWICH TOWN VS ASTON VILLA - ROY
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel1/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel1/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live3979.zundrixmediapipeline.com/live/channel1.flv
-#EXTINF:-1 group-title="Football",00:30 - 29/11 - IPSWICH TOWN VS ASTON VILLA - KEN
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-18.flv?auth_key=3000001795893729-0-0-5ea45d0b928e0bff7b6b20a7a2d9bec8
-#EXTINF:-1 group-title="Football",00:30 - 29/11 - IPSWICH TOWN VS ASTON VILLA - KEN
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel18/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel18/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel18.flv?wsSecret=5ef9b4f19a3228a9806d0bcd775a3ad5&wsABSTime=1795936930
-#EXTINF:-1 group-title="Football",00:30 - 29/11 - IPSWICH TOWN VS ASTON VILLA - FULL HD ROY
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-1/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-1/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-1.flv?auth_key=3000001795893730-0-0-11b63ed568212690ef54d71fb4747bf4
-#EXTINF:-1 group-title="Football",00:30 - 29/11 - PARTIZAN BELGRADE VS RADNICKI NIS - HD 1
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel15/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel15/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel15.flv?wsSecret=6f268e8a70932a4db23ffa278d07f6f1&wsABSTime=1795937045
-#EXTINF:-1 group-title="Football",00:30 - 29/11 - VFB STUTTGART VS EINTRACHT FRANKFURT - MAX
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live3979.zundrixmediapipeline.com/live/channel6.flv
-#EXTINF:-1 group-title="Football",00:30 - 29/11 - VFB STUTTGART VS EINTRACHT FRANKFURT - HD MAX
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-6.flv?auth_key=3000001795893954-0-0-d3e4b90db24f37219c4b38a212d41782
-#EXTINF:-1 group-title="Football",00:45 - 29/11 - MOTHERWELL F.C. VS HIBERNIAN F.C - HD 1
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel17/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel17/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel17.flv?wsSecret=88646b8973456b8e3fe12f351808ff8d&wsABSTime=1795936971
-#EXTINF:-1 group-title="Football",00:45 - 29/11 - PSV EINDHOVEN VS GO AHEAD EAGLES - TONI
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live3979.zundrixmediapipeline.com/live/channel9.flv
-#EXTINF:-1 group-title="Football",00:45 - 29/11 - PSV EINDHOVEN VS GO AHEAD EAGLES - HD TONI
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-9/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-9/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-9.flv?auth_key=3000001795893873-0-0-f2f6c2a9b5b7ed53b7869d57b23035e5
-#EXTINF:-1 group-title="Football",01:00 - 29/11 - AE KIFISIAS VS KALAMATA F.C - HD 1
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel20/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel20/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel20.flv?wsSecret=a179654438da101f10e57bb6f731c5d6&wsABSTime=1795936775
+https://live1.quickscoreboardz.com/live/channel82.flv?wsSecret=36709d4ae8c10f60c75b8d9505c463c5&wsABSTime=1795940664
 #EXTINF:-1 group-title="Esports",01:00 - 29/11 - AIMCLUB VS SPIRIT ACADEMY - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel74/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel74/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel74.flv?wsSecret=2810d23db46335f4bdb532a4b44a2423&wsABSTime=1795936774
-#EXTINF:-1 group-title="Football",01:00 - 29/11 - BALLYMENA UNITED FC VS CLIFTONVILLE - HD 1
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel21/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel21/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel21.flv?wsSecret=a86ca12d23fae457676abbfba061b579&wsABSTime=1795936794
-#EXTINF:-1 group-title="Football",01:00 - 29/11 - FCSB VS FK CSIKSZEREDA - HD 1
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel19/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel19/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel19.flv?wsSecret=44bf791ee65ff74985369ef0545a5c0c&wsABSTime=1795936879
+https://live1.quickscoreboardz.com/live/channel74.flv?wsSecret=5deebd805138f2ba6a019c8fca03227a&wsABSTime=1795940345
 #EXTINF:-1 group-title="Esports",01:00 - 29/11 - HOKORI VS LEGENDS GAMING - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel71/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel71/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel71.flv?wsSecret=edd4660c3f3aadf444e171d04e6032c1&wsABSTime=1795936906
-#EXTINF:-1 group-title="Football",01:00 - 29/11 - LUSITANIA FC VS VIZELA - HD 1
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel23/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel23/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel23.flv?wsSecret=9277bf69dd3cc923dee787c0baf3b46d&wsABSTime=1795936957
-#EXTINF:-1 group-title="Football",01:00 - 29/11 - NỮ CANADA VS NỮ PANAMA - ALAN
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel25/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel25/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live3979.zundrixmediapipeline.com/live/channel25.flv
-#EXTINF:-1 group-title="Football",01:00 - 29/11 - NỮ CANADA VS NỮ PANAMA - HD ALAN
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-25/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-25/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-25.flv?auth_key=3000001795893797-0-0-e052f4ad96b807cde81d61af06a056d5
-#EXTINF:-1 group-title="Football",01:00 - 29/11 - NỮ ĐỨC U19 VS NỮ SLOVENIA U19 - HD 1
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel37/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel37/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel37.flv?wsSecret=8f80a329a4ff43affaca7274fe600a4a&wsABSTime=1795936996
+https://live1.quickscoreboardz.com/live/channel71.flv?wsSecret=4561a6700a2461783ff0b239ed3bb76d&wsABSTime=1795940477
 #EXTINF:-1 group-title="Esports",01:00 - 29/11 - PRESTIGE VS HAVU - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel75/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel75/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel75.flv?wsSecret=c9b82f8abe3e79cf6c721e67c85e4ae4&wsABSTime=1795937062
-#EXTINF:-1 group-title="Football",01:00 - 29/11 - SPORTING CP B VS AMARANTE - HD 1
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel22/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel22/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel22.flv?wsSecret=b0bd682047b04ef6af75ccf16a2ec096&wsABSTime=1795937119
-#EXTINF:-1 group-title="Football",01:00 - 29/11 - VISEU VS ALVERCA - BEE
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel8/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel8/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live3979.zundrixmediapipeline.com/live/channel8.flv
-#EXTINF:-1 group-title="Football",01:00 - 29/11 - VISEU VS ALVERCA - HD BEE
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-8/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-8/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-8.flv?auth_key=3000001795893958-0-0-407951b1770832441240c7662c6fde39
+https://live1.quickscoreboardz.com/live/channel75.flv?wsSecret=7d8db19f0725a013a73f2855dc5f5df9&wsABSTime=1795940634
 #EXTINF:-1 group-title="Tennis",01:10 - 29/11 - LOURDES AYALA/SOL AILIN LARRAYA GUIDI VS AKLI A / RENCHELI A - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel55/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel55/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel55.flv?wsSecret=b878a56f1c478b2558c667f8fcaac9b0&wsABSTime=1795936952
-#EXTINF:-1 group-title="Football",01:15 - 29/11 - KISVÁRDA FC VS NYIREGYHAZA - HD 1
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel24/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel24/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel24.flv?wsSecret=f705c7484457474f40baa960a5a6328f&wsABSTime=1795936938
+https://live1.quickscoreboardz.com/live/channel55.flv?wsSecret=751e7514acc5663d009a5eff93faf883&wsABSTime=1795940524
 #EXTINF:-1 group-title="Football",01:30 - 29/11 - PALERMO VS BENEVENTO - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel26/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel26/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel26.flv?wsSecret=55fef4c41268d7cb963751cdfabb34a5&wsABSTime=1795937036
+https://live1.quickscoreboardz.com/live/channel26.flv?wsSecret=0e4d019944838cecab65bf50f87761fc&wsABSTime=1795940609
 #EXTINF:-1 group-title="Football",01:30 - 29/11 - SC AUSTRIA LUSTENAU VS SK RAPID WIEN - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel25/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel25/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel25.flv?wsSecret=4c3b4d74b5488773a6cae7570f38bfff&wsABSTime=1795937109
+https://live1.quickscoreboardz.com/live/channel25.flv?wsSecret=385beadddcbe1086bbcca394aa70e5b9&wsABSTime=1795940682
 #EXTINF:-1 group-title="Volleyball",01:30 - 29/11 - SETE VS NARBONNE - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel80/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel80/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel80.flv?wsSecret=038caa5501eab75436b562a0db9f4283&wsABSTime=1795937117
+https://live1.quickscoreboardz.com/live/channel80.flv?wsSecret=3b27a16ab9ac2384530b2623b1241cd3&wsABSTime=1795940691
 #EXTINF:-1 group-title="Basketball",02:00 - 29/11 - AUSTIN SPURS VS MEXICO CITY CAPITANES - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel40/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel40/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=de46f4bcdcf04baa4849906099afff6f&wsABSTime=1795936788
+https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=234eac4328799dafc8d0516834817b2a&wsABSTime=1795940359
 #EXTINF:-1 group-title="Volleyball",02:00 - 29/11 - CHAUMONT VS CANNES - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel81/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel81/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel81.flv?wsSecret=5407fe2453f953291aeea889570b3173&wsABSTime=1795936819
+https://live1.quickscoreboardz.com/live/channel81.flv?wsSecret=770f1f07ab05c14051484bc0349d3f65&wsABSTime=1795940384
 #EXTINF:-1 group-title="Football",02:00 - 29/11 - GV SAN JOSE VS REAL POTOSI - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel30/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel30/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel30.flv?wsSecret=a26b29ad0de95671cc280d6aa58a26fc&wsABSTime=1795936900
+https://live1.quickscoreboardz.com/live/channel30.flv?wsSecret=461ab22fb3b386e29cba1b3972e39760&wsABSTime=1795940468
 #EXTINF:-1 group-title="Football",02:00 - 29/11 - MACARA VS LDU QUITO - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel27/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel27/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel27.flv?wsSecret=096e88ac266d02174f71925ccc42b13b&wsABSTime=1795936958
+https://live1.quickscoreboardz.com/live/channel27.flv?wsSecret=e24375a5747bd56f6ce25b6d8a73b3a3&wsABSTime=1795940529
 #EXTINF:-1 group-title="Football",02:00 - 29/11 - NỮ GHANA VS NỮ ECUADOR - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel28/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel28/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel28.flv?wsSecret=02f46c29aa08ae80a662548ab4dd38de&wsABSTime=1795937002
+https://live1.quickscoreboardz.com/live/channel28.flv?wsSecret=624dec5ddf766873108959a7d465a517&wsABSTime=1795940571
 #EXTINF:-1 group-title="Football",02:00 - 29/11 - RS BERKANE VS COLOMBE LOBO - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel29/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel29/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel29.flv?wsSecret=ce8e53290fab8543991ed43a2caa2f45&wsABSTime=1795937091
+https://live1.quickscoreboardz.com/live/channel29.flv?wsSecret=24450a47c2c38c0d9db686fcc96e0497&wsABSTime=1795940663
 #EXTINF:-1 group-title="Football",02:15 - 29/11 - WISLA KRAKOW VS MOTOR LUBLIN - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel31/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel31/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel31.flv?wsSecret=f1b5191a157a3b35cfbcd60924b8d457&wsABSTime=1795937162
+https://live1.quickscoreboardz.com/live/channel31.flv?wsSecret=37bcc711777b167c3d1fb184101f68cd&wsABSTime=1795940746
 #EXTINF:-1 group-title="Football",02:30 - 29/11 - GELBISON VS ASD MONASTIR - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel2/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel2/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel2.flv?wsSecret=bfd8b171f3d04cce28d9c1f30df0d08a&wsABSTime=1795936885
+https://live1.quickscoreboardz.com/live/channel2.flv?wsSecret=0bfe1e6ca7762ff4e095222fe82d3aff&wsABSTime=1795940451
 #EXTINF:-1 group-title="Football",02:30 - 29/11 - HOUSTON DYNAMO VS SJ EARTHQUAKES - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel39/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel39/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel39.flv?wsSecret=36fc6ad8aa306d81dcb1ed1cdea693dd&wsABSTime=1795936909
+https://live1.quickscoreboardz.com/live/channel39.flv?wsSecret=1c8156d792350d2e60af9b4baf9b4f16&wsABSTime=1795940479
 #EXTINF:-1 group-title="Football",02:30 - 29/11 - SERVETTE VS LAUSANNE SPORTS - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel1/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel1/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel1.flv?wsSecret=e64263fcc62edd9fbff8c52a44a2dd04&wsABSTime=1795937115
+https://live1.quickscoreboardz.com/live/channel1.flv?wsSecret=43cfe5eeee28e49fabe197a39c232cf2&wsABSTime=1795940690
 #EXTINF:-1 group-title="Football",02:30 - 29/11 - VFL OSNABRÜCK VS HANNOVER 96 - LOGAN
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel23/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -253,7 +98,7 @@ https://live3979.zundrixmediapipeline.com/live/channel23.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-23/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-23/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-23.flv?auth_key=3000001795893956-0-0-1614abf828eadc1125593ca9a8b8309e
+https://live2.streamhaulcdn.com/livecdn/channel-23.flv?auth_key=3000001795897542-0-0-8f856d19ab83be2c32799a21ba811c9a
 #EXTINF:-1 group-title="Football",02:45 - 29/11 - INTER MILAN VS GENOA - ASTRA
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -263,12 +108,12 @@ https://live3979.zundrixmediapipeline.com/live/channel11.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-11.flv?auth_key=3000001795893727-0-0-a86009523b9d3e37f6dbe4e591ebd5c0
+https://live2.streamhaulcdn.com/livecdn/channel-11.flv?auth_key=3000001795897297-0-0-41df5260a97a5ce4f4a01e78f5069312
 #EXTINF:-1 group-title="Football",02:45 - 29/11 - K VS K LOMMEL VS ZULTE-WAREGEM - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel3/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel3/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel3.flv?wsSecret=bb8bc502660b316287a44733714a2a28&wsABSTime=1795936940
+https://live1.quickscoreboardz.com/live/channel3.flv?wsSecret=653d3c32cdfe1231c71ba89619238973&wsABSTime=1795940511
 #EXTINF:-1 group-title="Football",02:45 - 29/11 - LE HAVRE FC VS STRASBOURG - RAVEN
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel21/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -278,7 +123,7 @@ https://live3979.zundrixmediapipeline.com/live/channel21.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-21/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-21/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-21.flv?auth_key=3000001795893746-0-0-0dd2b10ed0020d38ef8a822fa2ba33c0
+https://live2.streamhaulcdn.com/livecdn/channel-21.flv?auth_key=3000001795897319-0-0-d37bf35a58d6bbf53d0d383498f57ae4
 #EXTINF:-1 group-title="Football",02:45 - 29/11 - LE MANS VS LOSC LILLE - SILVA
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel20/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -288,12 +133,12 @@ https://live3979.zundrixmediapipeline.com/live/channel20.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-20/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-20/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-20.flv?auth_key=3000001795893749-0-0-8c2c8740292b488c9cd1d10744fdaee8
+https://live2.streamhaulcdn.com/livecdn/channel-20.flv?auth_key=3000001795897321-0-0-f2086d4981adf36935756e5ccac3bc92
 #EXTINF:-1 group-title="Volleyball",02:45 - 29/11 - NỮ LATINO AMISA VS NỮ REBAZA ACOSTA - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel82/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel82/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel82.flv?wsSecret=91d26dc13bd5f4cf5d71ed04e423203f&wsABSTime=1795937007
+https://live1.quickscoreboardz.com/live/channel82.flv?wsSecret=f9b608088fe2267d0a0d01f0a0bb043f&wsABSTime=1795940576
 #EXTINF:-1 group-title="Football",02:45 - 29/11 - OGC NICE VS TROYES - FELIX
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel24/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -303,7 +148,7 @@ https://live3979.zundrixmediapipeline.com/live/channel24.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-24/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-24/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-24.flv?auth_key=3000001795893838-0-0-6e29539bcab8771b1820eb3eaabf0132
+https://live2.streamhaulcdn.com/livecdn/channel-24.flv?auth_key=3000001795897408-0-0-22a4d60f79caa458dd3957bbea031a12
 #EXTINF:-1 group-title="Football",02:45 - 29/11 - PSG VS LORIENT - BRADY
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel15/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -313,22 +158,22 @@ https://live3979.zundrixmediapipeline.com/live/channel15.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-15/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-15/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-15.flv?auth_key=3000001795893870-0-0-cf3ef912dbc898f9c5503f2855a93a69
+https://live2.streamhaulcdn.com/livecdn/channel-15.flv?auth_key=3000001795897441-0-0-615fb70db109c35f323bf73e6547b69f
 #EXTINF:-1 group-title="Football",02:45 - 29/11 - RC CHARLEROI VS SK BEVEREN - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel4/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel4/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel4.flv?wsSecret=e783e1a6da749b13d446c4337bcd16b7&wsABSTime=1795937075
+https://live1.quickscoreboardz.com/live/channel4.flv?wsSecret=bb7eb768cb4b24cde9d38eff2fc167de&wsABSTime=1795940643
 #EXTINF:-1 group-title="Football",03:00 - 29/11 - EXTREMADURA UD VS CACERENO - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel6/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel6/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel6.flv?wsSecret=427f267d3af66c6787cd98abed1e341c&wsABSTime=1795936873
+https://live1.quickscoreboardz.com/live/channel6.flv?wsSecret=ecca0ccc11e63e767165ba32c5f4306f&wsABSTime=1795940441
 #EXTINF:-1 group-title="Tennis",03:00 - 29/11 - LUIS CARLOS ALVAREZ VALDES VS LUCAS ANDRADE DA SILVA - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel56/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel56/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel56.flv?wsSecret=dbb439b015dd64679bdab76b1880c6d9&wsABSTime=1795936954
+https://live1.quickscoreboardz.com/live/channel56.flv?wsSecret=e55793a6af25c38f7624775f052b631a&wsABSTime=1795940526
 #EXTINF:-1 group-title="Football",03:00 - 29/11 - PALMEIRAS VS ESTUDIANTES LP - POLO
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel10/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -338,7 +183,7 @@ https://live3979.zundrixmediapipeline.com/live/channel10.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-10/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-10/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-10.flv?auth_key=3000001795893847-0-0-890328f652e15eb3fc074afb0a56f82d
+https://live2.streamhaulcdn.com/livecdn/channel-10.flv?auth_key=3000001795897419-0-0-bc65dafc165903f6f1cc2f8ae1567c9d
 #EXTINF:-1 group-title="Football",03:00 - 29/11 - REAL MADRID VS ALAVÉS - ROY
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel1/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -348,22 +193,22 @@ https://live3979.zundrixmediapipeline.com/live/channel1.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-12/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-12/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-12.flv?auth_key=3000001795893881-0-0-575ec77e8684a930a4703559429d0fe8
+https://live2.streamhaulcdn.com/livecdn/channel-12.flv?auth_key=3000001795897453-0-0-ca09424ce010b10e9e4809d0b311c9f7
 #EXTINF:-1 group-title="Football",03:00 - 29/11 - REAL MADRID VS ALAVÉS - JOHAN
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel12/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel12/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel12.flv?wsSecret=495ada2c712acf2e14a1484df25b8cbb&wsABSTime=1795937082
+https://live1.quickscoreboardz.com/live/channel12.flv?wsSecret=2dcf6754df0d89c11874662da0a9faad&wsABSTime=1795940653
 #EXTINF:-1 group-title="Football",03:00 - 29/11 - REAL MADRID VS ALAVÉS - FULL HD ROY
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-1/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-1/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-1.flv?auth_key=3000001795893882-0-0-df3e1102c8aae2d7790bad053c54e1de
+https://live2.streamhaulcdn.com/livecdn/channel-1.flv?auth_key=3000001795897453-0-0-9aeb234eb8e1aa2f8d2645af8632ae38
 #EXTINF:-1 group-title="Football",03:00 - 29/11 - REAL VALLADOLID VS REAL SOCIEDAD B - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel5/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel5/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel5.flv?wsSecret=4fe45038e7afa22b665d280931adcf9b&wsABSTime=1795937078
+https://live1.quickscoreboardz.com/live/channel5.flv?wsSecret=eadfc40439d7b70dbdda981ef36a7b7e&wsABSTime=1795940649
 #EXTINF:-1 group-title="Football",03:00 - 29/11 - SC CAMBUUR VS SPARTA ROTTERDAM - NEMO
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel17/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -373,7 +218,7 @@ https://live3979.zundrixmediapipeline.com/live/channel17.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-17/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-17/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-17.flv?auth_key=3000001795893916-0-0-37e474bc7883ce3442553a079a5343e8
+https://live2.streamhaulcdn.com/livecdn/channel-17.flv?auth_key=3000001795897489-0-0-87bbb4d2bb8d202aecaef9a1e5c62fa1
 #EXTINF:-1 group-title="Football",03:30 - 29/11 - VITORIA GUIMARAES VS ESTRELA AMADORA - TONI
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -383,37 +228,37 @@ https://live3979.zundrixmediapipeline.com/live/channel9.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-9/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-9/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-9.flv?auth_key=3000001795893960-0-0-719871bbcc00bd5603e216d16643d0b5
+https://live2.streamhaulcdn.com/livecdn/channel-9.flv?auth_key=3000001795897544-0-0-8bf69256865eee64da34415c2814948a
 #EXTINF:-1 group-title="Football",04:00 - 29/11 - COQUIMBO UNIDO VS DEPORTES LIMACHE - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel7/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel7/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel7.flv?wsSecret=243868c3938d35f74b253ed23e2f3d4a&wsABSTime=1795936844
+https://live1.quickscoreboardz.com/live/channel7.flv?wsSecret=67aac520b5aa91eaa8af0371b9f073d5&wsABSTime=1795940416
 #EXTINF:-1 group-title="Volleyball",04:00 - 29/11 - RIVER PLATE VS BOCA JUNIORS - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel80/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel80/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel80.flv?wsSecret=dfb729be6f7f4b417ed9a755cfd04436&wsABSTime=1795937085
+https://live1.quickscoreboardz.com/live/channel80.flv?wsSecret=1a918051050ff1002e24720f9575a206&wsABSTime=1795940656
 #EXTINF:-1 group-title="Football",04:15 - 29/11 - CLUB GUABIRA VS UD VINTO - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel8/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel8/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel8.flv?wsSecret=a8a234ce99dbd8bfc6c8256e779e38ee&wsABSTime=1795936834
+https://live1.quickscoreboardz.com/live/channel8.flv?wsSecret=33a7f22a7c32b4c493b758c05e2cf78c&wsABSTime=1795940404
 #EXTINF:-1 group-title="Football",04:30 - 29/11 - BARCELONA SC VS DEPORTIVA AUCAS - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel10/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel10/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel10.flv?wsSecret=63002564725299e9e2fa41fa317f54d8&wsABSTime=1795936796
+https://live1.quickscoreboardz.com/live/channel10.flv?wsSecret=1ec2723c81bb0c1bcab9804f0091e958&wsABSTime=1795940360
 #EXTINF:-1 group-title="Football",04:30 - 29/11 - DEPORTES QUINDIO VS BOCA JUNIORS CALI - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel11/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel11/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel11.flv?wsSecret=47cc483e2ca116bde4e8fc1f80d32316&wsABSTime=1795936852
+https://live1.quickscoreboardz.com/live/channel11.flv?wsSecret=feedbb5362275c0c34c371dec2d45a3f&wsABSTime=1795940425
 #EXTINF:-1 group-title="Volleyball",04:30 - 29/11 - GUARULHOS VS VOLEI RENATA - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel81/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel81/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel81.flv?wsSecret=6dff015e40d3216963caa05914ca7318&wsABSTime=1795936897
+https://live1.quickscoreboardz.com/live/channel81.flv?wsSecret=94e6973b65ff3a2790183094d7f919dc&wsABSTime=1795940464
 #EXTINF:-1 group-title="Football",04:30 - 29/11 - NỮ MEXICO VS NỮ HAITI - LOGAN
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel23/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -423,7 +268,7 @@ https://live3979.zundrixmediapipeline.com/live/channel23.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-23/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-23/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-23.flv?auth_key=3000001795893817-0-0-8ba96eb16b5c0d4b4c130a37a950c613
+https://live2.streamhaulcdn.com/livecdn/channel-23.flv?auth_key=3000001795897385-0-0-445cf87f4d608d197f321df6118d2214
 #EXTINF:-1 group-title="Football",04:30 - 29/11 - PHILADELPHIA UNION VS NEW ENGLAND - BEE
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel8/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -433,32 +278,32 @@ https://live3979.zundrixmediapipeline.com/live/channel8.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-8/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-8/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-8.flv?auth_key=3000001795893860-0-0-afdc79f8f86c8847e1d63c80e65fdc4a
+https://live2.streamhaulcdn.com/livecdn/channel-8.flv?auth_key=3000001795897431-0-0-530c07857c43f7070d14e806529cbd00
 #EXTINF:-1 group-title="Football",05:00 - 29/11 - DEPORTIVO LARA VS BARQUISIMETO - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel13/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel13/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel13.flv?wsSecret=203b4fbdd4ba4f2ee7d9737caeb81fe6&wsABSTime=1795936854
+https://live1.quickscoreboardz.com/live/channel13.flv?wsSecret=d1f9feb1c59f0a5148fbd90101d739b8&wsABSTime=1795940428
 #EXTINF:-1 group-title="Football",05:00 - 29/11 - GUERREROS DE AUTLÁN VS ATLETICO SALTILLO - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel14/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel14/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel14.flv?wsSecret=1e218be961270e4cf29fb6a3ca08df8c&wsABSTime=1795936898
+https://live1.quickscoreboardz.com/live/channel14.flv?wsSecret=e5f199ec10a9c34c087d9479468dda2f&wsABSTime=1795940466
 #EXTINF:-1 group-title="Basketball",05:00 - 29/11 - LONG ISLAND NETS VS MAINE CELTICS - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel41/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel41/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel41.flv?wsSecret=5266b3c15bbf8936195782ee34ec590a&wsABSTime=1795936948
+https://live1.quickscoreboardz.com/live/channel41.flv?wsSecret=3963c3f9da26a56d6426c68cfa3b3026&wsABSTime=1795940520
 #EXTINF:-1 group-title="Volleyball",05:00 - 29/11 - NỮ ALIANZA LIMA VS NỮ PERU - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel82/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel82/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel82.flv?wsSecret=9771faf6ec403fcba533082b1be51b2d&wsABSTime=1795936988
+https://live1.quickscoreboardz.com/live/channel82.flv?wsSecret=34a82304a58fd2d2faed3f2357596ca9&wsABSTime=1795940561
 #EXTINF:-1 group-title="Tennis",05:00 - 29/11 - TIMO LEGOUT VS LUIS MIGUEL - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel57/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel57/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel57.flv?wsSecret=bcb7ea7e7fcdcf9b9a11accb79dd5ef6&wsABSTime=1795937135
+https://live1.quickscoreboardz.com/live/channel57.flv?wsSecret=0681f417c5c7a02b17eae4d95617227b&wsABSTime=1795940719
 #EXTINF:-1 group-title="Basketball",05:00 - 29/11 - WASHINGTON WIZARDS VS ORLANDO MAGIC - KOBE
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel27/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -468,17 +313,17 @@ https://live3979.zundrixmediapipeline.com/live/channel27.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-27/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-27/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-27.flv?auth_key=3000001795893965-0-0-95060cea53cf5dbc6ddf1fdd5fd8a10f
+https://live2.streamhaulcdn.com/livecdn/channel-27.flv?auth_key=3000001795897549-0-0-cc98ca007be1e21218813230b75b47b3
 #EXTINF:-1 group-title="Football",05:30 - 29/11 - SV DEPORTIVO NACIONAL VS SV SPORTING - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel15/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel15/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel15.flv?wsSecret=57cdc3c3095c9e6882069ed9bbae9ab7&wsABSTime=1795937125
+https://live1.quickscoreboardz.com/live/channel15.flv?wsSecret=63552837d98e133037c0e2cfce85e232&wsABSTime=1795940709
 #EXTINF:-1 group-title="Football",06:00 - 29/11 - AUCKLAND FC (R) VS AUCKLAND CITY - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel16/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel16/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel16.flv?wsSecret=029e22164e4e79a95b9607e777c412bc&wsABSTime=1795936787
+https://live1.quickscoreboardz.com/live/channel16.flv?wsSecret=e616e8abd6f679141a5c9b6e329428d4&wsABSTime=1795940353
 #EXTINF:-1 group-title="Basketball",06:00 - 29/11 - CHARLOTTE HORNETS VS BROOKLYN NETS - TOMMY
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel29/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -488,27 +333,27 @@ https://live3979.zundrixmediapipeline.com/live/channel29.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-29/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-29/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-29.flv?auth_key=3000001795893619-0-0-1934d67a22396c783a2a30227a57772e
+https://live2.streamhaulcdn.com/livecdn/channel-29.flv?auth_key=3000001795897187-0-0-91572a35afbcd77f58c219a23822d1e1
 #EXTINF:-1 group-title="Football",06:00 - 29/11 - DEPORTIVO MADRYN VS GIMNASIA JUJUY - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel18/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel18/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel18.flv?wsSecret=8b2e61953a51f5e586155998231817de&wsABSTime=1795936856
+https://live1.quickscoreboardz.com/live/channel18.flv?wsSecret=d9bce5aae37c0815c2368a056383d19d&wsABSTime=1795940430
 #EXTINF:-1 group-title="Football",06:00 - 29/11 - FORTALEZA VS CRICIUMA - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel17/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel17/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel17.flv?wsSecret=2b8fb879d11d47e8fb365aed29685d67&wsABSTime=1795936883
+https://live1.quickscoreboardz.com/live/channel17.flv?wsSecret=bf7863c2b1001d89188845bcffc6d828&wsABSTime=1795940449
 #EXTINF:-1 group-title="Basketball",06:00 - 29/11 - GREENSBORO SWARM VS COLLEGE PARK SKYHAWKS - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel44/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel44/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel44.flv?wsSecret=9d4d7dae797b2c146044f55182c72efb&wsABSTime=1795936894
+https://live1.quickscoreboardz.com/live/channel44.flv?wsSecret=8fa0f48e2e6e4693acbdbb76e8222a02&wsABSTime=1795940462
 #EXTINF:-1 group-title="Basketball",06:00 - 29/11 - SALT LAKE CITY STARS VS STOCKTON KINGS - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel43/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel43/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel43.flv?wsSecret=f007d1851586f70db69d6014b7c9ee89&wsABSTime=1795937103
+https://live1.quickscoreboardz.com/live/channel43.flv?wsSecret=d1ca3af8e8aed4e9f84f9c4a904980c9&wsABSTime=1795940675
 #EXTINF:-1 group-title="Football",06:00 - 29/11 - VELEZ SARSFIELD VS CA INDEPENDIENTE - NEMO
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel17/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -518,12 +363,12 @@ https://live3979.zundrixmediapipeline.com/live/channel17.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-17/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-17/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-17.flv?auth_key=3000001795893952-0-0-a786a439607cbc2106ef1d46e6ffbdd0
+https://live2.streamhaulcdn.com/livecdn/channel-17.flv?auth_key=3000001795897541-0-0-f61a22d5123aa69ff61371e03721c23c
 #EXTINF:-1 group-title="Football",06:30 - 29/11 - COLO COLO VS DEPORTES LA SERENA - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel19/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel19/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel19.flv?wsSecret=5d828f43708bdc8276c73b338aa96ff7&wsABSTime=1795936838
+https://live1.quickscoreboardz.com/live/channel19.flv?wsSecret=d9bfdb8fd22dda6889ebe75f038b7fcb&wsABSTime=1795940410
 #EXTINF:-1 group-title="Football",06:30 - 29/11 - FC CINCINNATI VS NASHVILLE SC - ZANE
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel22/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -533,12 +378,12 @@ https://live3979.zundrixmediapipeline.com/live/channel22.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-22/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-22/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-22.flv?auth_key=3000001795893680-0-0-73b2933f2259b2679a55721d3346b8a6
+https://live2.streamhaulcdn.com/livecdn/channel-22.flv?auth_key=3000001795897248-0-0-16bd8475e599c4299451b8b4c3f726df
 #EXTINF:-1 group-title="Football",06:30 - 29/11 - NACIONAL POTOSI VS ORIENTE PETROLERO - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel20/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel20/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel20.flv?wsSecret=627b6000e891a204d60863329ce1c498&wsABSTime=1795936975
+https://live1.quickscoreboardz.com/live/channel20.flv?wsSecret=69e8b284d050425289ea1d3544a1b1e6&wsABSTime=1795940548
 #EXTINF:-1 group-title="Football",07:00 - 29/11 - BOTAFOGO RJ VS BAHIA BA - POLO
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel10/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -548,22 +393,22 @@ https://live3979.zundrixmediapipeline.com/live/channel10.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-10/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-10/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-10.flv?auth_key=3000001795893606-0-0-54affe023f7a5b2c300a41f46ab0b0f4
+https://live2.streamhaulcdn.com/livecdn/channel-10.flv?auth_key=3000001795897173-0-0-b6cbc3120460142b034d0bc6b653ea57
 #EXTINF:-1 group-title="Basketball",07:00 - 29/11 - CLEVELAND CHARGE VS IOWA WOLVES - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel45/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel45/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel45.flv?wsSecret=5c26c21deb2538d39a2ed917032cf338&wsABSTime=1795936827
+https://live1.quickscoreboardz.com/live/channel45.flv?wsSecret=a9c95d107950f8f14b457a8f5078e307&wsABSTime=1795940397
 #EXTINF:-1 group-title="Basketball",07:00 - 29/11 - GRAND RAPIDS GOLD VS NOBLESVILLE BOOM - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel46/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel46/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel46.flv?wsSecret=79f4d6a5b429c31f0ef019abe83016b6&wsABSTime=1795936891
+https://live1.quickscoreboardz.com/live/channel46.flv?wsSecret=f9fe72dc27b319b0a82882f368d1bb16&wsABSTime=1795940460
 #EXTINF:-1 group-title="Volleyball",07:00 - 29/11 - NỮ SAN MARTIN PORRES VS NỮ ATENEA - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel80/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel80/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel80.flv?wsSecret=543752dd5321c28d2defc47ac3f44cdc&wsABSTime=1795937022
+https://live1.quickscoreboardz.com/live/channel80.flv?wsSecret=268a1f8a8a48755c4194944c9b5f6f79&wsABSTime=1795940593
 #EXTINF:-1 group-title="Football",07:30 - 29/11 - IND. SANTA FE VS ATL. NACIONAL - JEAN
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel7/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -573,12 +418,12 @@ https://live3979.zundrixmediapipeline.com/live/channel7.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-7/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-7/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-7.flv?auth_key=3000001795893723-0-0-6b3021aee01f9da68640b52144f40a28
+https://live2.streamhaulcdn.com/livecdn/channel-7.flv?auth_key=3000001795897293-0-0-cc20ffc0c8c21bc166513ea2040e31e6
 #EXTINF:-1 group-title="Football",08:00 - 29/11 - AD SAN CARLOS VS LD ALAJUELENSE - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel24/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel24/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel24.flv?wsSecret=35691d1836440acbf7cf058a8ac8c691&wsABSTime=1795936768
+https://live1.quickscoreboardz.com/live/channel24.flv?wsSecret=faa097d81470df1ff31db96d1e0d3c76&wsABSTime=1795940338
 #EXTINF:-1 group-title="Football",08:00 - 29/11 - ATLAS VS TOLUCA - TOM
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel4/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -588,17 +433,17 @@ https://live3979.zundrixmediapipeline.com/live/channel4.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-4/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-4/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-4.flv?auth_key=3000001795893589-0-0-3bcecfd4477858d41efc078f950e70f1
+https://live2.streamhaulcdn.com/livecdn/channel-4.flv?auth_key=3000001795897158-0-0-1800f2e3a3f81a6f8f2831afbe7f2cb4
 #EXTINF:-1 group-title="Football",08:00 - 29/11 - CARTAGINES DEPORTIVA VS MUNICIPAL PÉREZ ZELEDÓN - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel23/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel23/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel23.flv?wsSecret=9deef8d0aec46de57c1c4ae2f05ffd52&wsABSTime=1795936807
+https://live1.quickscoreboardz.com/live/channel23.flv?wsSecret=1a2c626aff0dce04168738f4a9d0a3ee&wsABSTime=1795940375
 #EXTINF:-1 group-title="Football",08:00 - 29/11 - CASHMERE TECHNICAL VS AUCKLAND UNITED - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel26/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel26/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel26.flv?wsSecret=6022abc0636782d43c91889e525ae364&wsABSTime=1795936809
+https://live1.quickscoreboardz.com/live/channel26.flv?wsSecret=2385cd667817ea8dc04b52547a3b3e5e&wsABSTime=1795940378
 #EXTINF:-1 group-title="Basketball",08:00 - 29/11 - CHICAGO BULLS VS INDIANA PACERS - KOBE
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel27/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -608,12 +453,12 @@ https://live3979.zundrixmediapipeline.com/live/channel27.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-27/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-27/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-27.flv?auth_key=3000001795893626-0-0-beada00f59fa4badd5e56b1a649dd9bb
+https://live2.streamhaulcdn.com/livecdn/channel-27.flv?auth_key=3000001795897194-0-0-3adadb3462692463ce34c6754dbc273d
 #EXTINF:-1 group-title="Football",08:00 - 29/11 - DEPORTIVO SAPRISSA VS INTER DE SAN CARLOS - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel25/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel25/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel25.flv?wsSecret=ffc73956d1f1eb0692c02e302ad16ed1&wsABSTime=1795936858
+https://live1.quickscoreboardz.com/live/channel25.flv?wsSecret=82e13acba0633a280b9b202dd9286143&wsABSTime=1795940432
 #EXTINF:-1 group-title="Football",08:00 - 29/11 - INSTITUTO VS RIVER PLATE - XMEN
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel13/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -623,27 +468,27 @@ https://live3979.zundrixmediapipeline.com/live/channel13.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-13/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-13/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-13.flv?auth_key=3000001795893725-0-0-85daac6e9b61c0f5248c4d11e37a8bee
+https://live2.streamhaulcdn.com/livecdn/channel-13.flv?auth_key=3000001795897295-0-0-da8d724a7fb23da1f30876b3ac63b9ba
 #EXTINF:-1 group-title="Basketball",08:00 - 29/11 - MILWAUKEE BUCKS VS OKLAHOMA CITY THUNDER - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel48/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel48/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel48.flv?wsSecret=9c4fb3e5b3545cdc21426f18ddc85b02&wsABSTime=1795936963
+https://live1.quickscoreboardz.com/live/channel48.flv?wsSecret=e7d1b8213456c7b89687894af7ac7c68&wsABSTime=1795940533
 #EXTINF:-1 group-title="Football",08:00 - 29/11 - NAPIER CITY ROVERS VS EASTERN SUBURBS AFC - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel21/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel21/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel21.flv?wsSecret=5da268761a8a06c7d3aecb6a06be2e30&wsABSTime=1795936977
+https://live1.quickscoreboardz.com/live/channel21.flv?wsSecret=366dd4b6ec0f894f6d93c883675c2c88&wsABSTime=1795940550
 #EXTINF:-1 group-title="Football",08:00 - 29/11 - SPORTING FC VS PUNTARENAS FC - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel22/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel22/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel22.flv?wsSecret=d83f4e4246b1a891a9a84e8596435f10&wsABSTime=1795937121
+https://live1.quickscoreboardz.com/live/channel22.flv?wsSecret=731eea057739abfec8c75a5a94a32442&wsABSTime=1795940697
 #EXTINF:-1 group-title="Football",08:30 - 29/11 - FC TOKYO U21 VS V-VAREN NAGASAKI U21 - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel28/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel28/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel28.flv?wsSecret=28a409fb02fd357fd92df5f020f9f9c2&wsABSTime=1795936877
+https://live1.quickscoreboardz.com/live/channel28.flv?wsSecret=d7c527d168b0f11bc73724a0220b73d2&wsABSTime=1795940445
 #EXTINF:-1 group-title="Basketball",08:30 - 29/11 - HOUSTON ROCKETS VS PHILADELPHIA 76ERS - TOMMY
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel29/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -653,7 +498,7 @@ https://live3979.zundrixmediapipeline.com/live/channel29.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-29/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-29/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-29.flv?auth_key=3000001795893718-0-0-21b5d1f007bc3919802d2b04601c55b9
+https://live2.streamhaulcdn.com/livecdn/channel-29.flv?auth_key=3000001795897289-0-0-08808c5839a00f9009fac5801e8538bc
 #EXTINF:-1 group-title="Football",08:30 - 29/11 - LOS ANGELES FC VS ST. LOUIS CITY - FILIP
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -663,27 +508,27 @@ https://live3979.zundrixmediapipeline.com/live/channel19.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-19.flv?auth_key=3000001795893756-0-0-9db4d6238dff65f157cd0521be027fee
+https://live2.streamhaulcdn.com/livecdn/channel-19.flv?auth_key=3000001795897328-0-0-793d1d57178667670b4f007a7a41bb4a
 #EXTINF:-1 group-title="Football",08:30 - 29/11 - PLAZA AMADOR VS TAURO FC - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel27/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel27/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel27.flv?wsSecret=deb777810fa51334afaf82928d4760ac&wsABSTime=1795937056
+https://live1.quickscoreboardz.com/live/channel27.flv?wsSecret=a690106f2ffd43c58c03f33f2422fcc6&wsABSTime=1795940627
 #EXTINF:-1 group-title="Basketball",08:30 - 29/11 - RIO GRANDE VIPERS VS MEMPHIS HUSTLE - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel40/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel40/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=553b702c2bd877380c9dc54f9981b7d4&wsABSTime=1795937084
+https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=a06840770252c40cc33a8565c3736fcb&wsABSTime=1795940655
 #EXTINF:-1 group-title="Basketball",09:00 - 29/11 - NỮ MID-NORTH VS NỮ NORTHERN KAHU - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel41/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel41/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel41.flv?wsSecret=a5068417c33d062c63c8f3a3a1e10f1c&wsABSTime=1795937013
+https://live1.quickscoreboardz.com/live/channel41.flv?wsSecret=9446b025202f925bdaaf26a108cce2a8&wsABSTime=1795940582
 #EXTINF:-1 group-title="Basketball",09:00 - 29/11 - NỮ SOUTHSIDE VS NỮ BENDIGO SPIRIT - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel42/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel42/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel42.flv?wsSecret=9b459a77c48ece13fa2acfdf025ad250&wsABSTime=1795937026
+https://live1.quickscoreboardz.com/live/channel42.flv?wsSecret=cc890012cbd0dcc4d1e7fe6a7fb5563c&wsABSTime=1795940596
 #EXTINF:-1 group-title="Tennis",09:30 - 29/11 - HAYATO MATSUOKA VS MASAMICHI IMAMURA - VIC
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel32/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -693,12 +538,12 @@ https://live3979.zundrixmediapipeline.com/live/channel32.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-32/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-32/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-32.flv?auth_key=3000001795893710-0-0-47083bc3bca678950afc91dd3653c631
+https://live2.streamhaulcdn.com/livecdn/channel-32.flv?auth_key=3000001795897280-0-0-48c9c8b71aba5571a79bd6f0c5445360
 #EXTINF:-1 group-title="Football",10:00 - 29/11 - BIRKENHEAD UNITED VS MIRAMAR RANGERS - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel30/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel30/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel30.flv?wsSecret=a600dd5414ebaff85b260d80335754ed&wsABSTime=1795936800
+https://live1.quickscoreboardz.com/live/channel30.flv?wsSecret=63a5930ac3977be5753a97777928295a&wsABSTime=1795940360
 #EXTINF:-1 group-title="Football",10:00 - 29/11 - CLUB ATLETICO LA PAZ VS ATLETICO MORELIA - RIO
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel16/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -708,32 +553,27 @@ https://live3979.zundrixmediapipeline.com/live/channel16.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-16/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-16/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-16.flv?auth_key=3000001795893637-0-0-9768de342095305aa142bfe6f9f6ba8f
+https://live2.streamhaulcdn.com/livecdn/channel-16.flv?auth_key=3000001795897208-0-0-9c0183cb3652e70a209bcfca85b9bc0a
 #EXTINF:-1 group-title="Basketball",10:00 - 29/11 - NỮ MITSUBISHI ELECTRIC DOLPHINS VS NỮ ARANMARE AKITA - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel44/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel44/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel44.flv?wsSecret=61ff82a2c44b17cf34cdf41d87ade6d6&wsABSTime=1795937015
+https://live1.quickscoreboardz.com/live/channel44.flv?wsSecret=d88dde732a8433c1262e8bad331687b3&wsABSTime=1795940584
 #EXTINF:-1 group-title="Football",10:00 - 29/11 - NỮ NEW ZEALAND VS NỮ PHILIPPINES - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel31/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel31/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel31.flv?wsSecret=e3de0217764ae467ddb4f4216c244de6&wsABSTime=1795937018
+https://live1.quickscoreboardz.com/live/channel31.flv?wsSecret=f41abe46ff6e4fab462731da85d9a79a&wsABSTime=1795940587
 #EXTINF:-1 group-title="Basketball",10:00 - 29/11 - SANTA CRUZ WARRIORS VS VALLEY SUNS - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel43/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel43/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel43.flv?wsSecret=7018ee58861a82baf35a98abfc32f1c5&wsABSTime=1795937106
-#EXTINF:-1 group-title="Volleyball",10:05 - 29/11 - NỮ OKAYAMA SEAGULLS VS NỮ HISAMITSU SPRINGS - TYSON
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel33/off-tvc?is_off_add=false
+https://live1.quickscoreboardz.com/live/channel43.flv?wsSecret=3250bdfa3a97065569137b129ef8dff6&wsABSTime=1795940681
+#EXTINF:-1 group-title="Volleyball",10:05 - 29/11 - NỮ OKAYAMA SEAGULLS VS NỮ HISAMITSU SPRINGS - HD 1
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel80/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel33/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live3979.zundrixmediapipeline.com/live/channel33.flv
-#EXTINF:-1 group-title="Volleyball",10:05 - 29/11 - NỮ OKAYAMA SEAGULLS VS NỮ HISAMITSU SPRINGS - HD TYSON
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-33/off-tvc?is_off_add=false
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-33/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-33.flv?auth_key=3000001795893825-0-0-7b4e9c6825e0f450014b28178799b1fb
+#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel80/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
+https://live1.quickscoreboardz.com/live/channel80.flv?wsSecret=71416721c335c762ecc7993cc71c53df&wsABSTime=1795940590
 #EXTINF:-1 group-title="Football",10:10 - 29/11 - CLUB AMERICA VS RAYADOS DE MONTERREY - FABIO
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel2/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -743,7 +583,7 @@ https://live3979.zundrixmediapipeline.com/live/channel2.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-2/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-2/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-2.flv?auth_key=3000001795893634-0-0-c2272c204eb04a9d6b678810893933a2
+https://live2.streamhaulcdn.com/livecdn/channel-2.flv?auth_key=3000001795897208-0-0-63b06171eb795299fc14ed3b076974c3
 #EXTINF:-1 group-title="Football",10:45 - 29/11 - PORTLAND TIMBERS VS FC DALLAS - NICK
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel5/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -753,27 +593,37 @@ https://live3979.zundrixmediapipeline.com/live/channel5.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-5/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-5/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-5.flv?auth_key=3000001795893863-0-0-95b235ca1c3f38f16573930a22bc5196
+https://live2.streamhaulcdn.com/livecdn/channel-5.flv?auth_key=3000001795897435-0-0-65a08a0226443418f80938e0c1baf8b7
+#EXTINF:-1 group-title="Football",11:00 - 29/11 - BRIOBECCA URAYASU VS TIAMO HIRAKATA - HD 1
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel5/off-tvc?is_off_add=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel5/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
+https://live1.quickscoreboardz.com/live/channel5.flv?wsSecret=1ee9fbc661c07745e9fb647ec3527c5b&wsABSTime=1795940372
+#EXTINF:-1 group-title="Football",11:00 - 29/11 - J-LEASE FC VS MARUYASU - HD 1
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel4/off-tvc?is_off_add=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel4/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
+https://live1.quickscoreboardz.com/live/channel4.flv?wsSecret=25fda72bcd6b1c6310ab16969b70cab9&wsABSTime=1795940499
 #EXTINF:-1 group-title="Football",11:00 - 29/11 - MINEBEA MITSUMI VS AZUL CLARO NUMAZU - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel3/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel3/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel3.flv?wsSecret=a4098a0aadd725f92b802cad07303299&wsABSTime=1795936967
+https://live1.quickscoreboardz.com/live/channel3.flv?wsSecret=0ef6d658bb72b36b0cafac343235aaf7&wsABSTime=1795940537
 #EXTINF:-1 group-title="Basketball",11:00 - 29/11 - NỮ ALBIREX NIIGATA VS NỮ YAMANASHI QUEENBEES - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel46/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel46/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel46.flv?wsSecret=ccc40c1290d1468b1836069934c4b606&wsABSTime=1795936986
+https://live1.quickscoreboardz.com/live/channel46.flv?wsSecret=9836cfd4d590033b1ee51998fc01be42&wsABSTime=1795940558
 #EXTINF:-1 group-title="Basketball",11:00 - 29/11 - NỮ TASMANIA JEWELS VS NỮ UC CAPITALS - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel45/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel45/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel45.flv?wsSecret=c77479ec72039075028d135fb04ffb71&wsABSTime=1795937028
+https://live1.quickscoreboardz.com/live/channel45.flv?wsSecret=1b0d9791c93decbebbba8146491d2c60&wsABSTime=1795940599
 #EXTINF:-1 group-title="Football",11:00 - 29/11 - ROASSO KUMAMOTO VS OSAKA FC - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel2/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel2/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel2.flv?wsSecret=426346a99415d98454d283d8167a94d1&wsABSTime=1795937087
+https://live1.quickscoreboardz.com/live/channel2.flv?wsSecret=ea24c68121b99b37e4025686d702d9f8&wsABSTime=1795940656
 #EXTINF:-1 group-title="Football",11:00 - 29/11 - VANRAURE HACHI VS FUJIEDA MYFC - KEN
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel18/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -783,12 +633,42 @@ https://live3979.zundrixmediapipeline.com/live/channel18.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-18.flv?auth_key=3000001795893949-0-0-9ffc585f103f9c2b9efd2ef22421e4f6
+https://live2.streamhaulcdn.com/livecdn/channel-18.flv?auth_key=3000001795897535-0-0-22f49e5268ba15e58fdcf0611509efc2
 #EXTINF:-1 group-title="Volleyball",11:05 - 29/11 - NỮ AGEO VS NỮ GREEN WINGS - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel81/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel81/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel81.flv?wsSecret=6b6782888ebc83f414be992f9ff6fe0c&wsABSTime=1795936983
+https://live1.quickscoreboardz.com/live/channel81.flv?wsSecret=63f04c22a92047da0691e9bc907b56a9&wsABSTime=1795940556
+#EXTINF:-1 group-title="Football",11:55 - 29/11 - NỮ NHẬT BẢN VS NỮ BRAZIL - HD 1
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel6/off-tvc?is_off_add=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel6/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
+https://live1.quickscoreboardz.com/live/channel6.flv?wsSecret=e2ed6c01626d41e9ee5b6593377094be&wsABSTime=1795940588
+#EXTINF:-1 group-title="Football",12:00 - 29/11 - ALBIREX NIIGATA VS VENTFORET KOFU - HD 1
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel19/off-tvc?is_off_add=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel19/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
+https://live1.quickscoreboardz.com/live/channel19.flv?wsSecret=c5d29db903f321bbf99332c889dc2699&wsABSTime=1795940345
+#EXTINF:-1 group-title="Football",12:00 - 29/11 - BLAUBLITZ AKITA VS YOKOHAMA FC - HD 1
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel18/off-tvc?is_off_add=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel18/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
+https://live1.quickscoreboardz.com/live/channel18.flv?wsSecret=8b487a123939776850c6fadbaae6749b&wsABSTime=1795940366
+#EXTINF:-1 group-title="Football",12:00 - 29/11 - CHEONAN CITY VS DAEGU FC - JEAN
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel7/off-tvc?is_off_add=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel7/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
+https://live3979.zundrixmediapipeline.com/live/channel7.flv
+#EXTINF:-1 group-title="Football",12:00 - 29/11 - CHEONAN CITY VS DAEGU FC - HD JEAN
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-7/off-tvc?is_off_add=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-7/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
+https://live2.streamhaulcdn.com/livecdn/channel-7.flv?auth_key=3000001795897194-0-0-3d5595199d18d3e5c38cacc30fc55347
+#EXTINF:-1 group-title="Football",12:00 - 29/11 - CHUNGNAM ASAN VS BUSAN I PARK - ALAN
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel25/off-tvc?is_off_add=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel25/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
+https://live3979.zundrixmediapipeline.com/live/channel25.flv
 #EXTINF:-1 group-title="Basketball",12:00 - 29/11 - FIJI VS INDONESIA - TOMMY
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel29/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -798,12 +678,87 @@ https://live3979.zundrixmediapipeline.com/live/channel29.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-29/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-29/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-29.flv?auth_key=3000001795893687-0-0-f09036cd79e66035aa06489e2af37f6d
+https://live2.streamhaulcdn.com/livecdn/channel-29.flv?auth_key=3000001795897252-0-0-9c97b483fd8275dbe8eab8d5edf15c0e
+#EXTINF:-1 group-title="Football",12:00 - 29/11 - GIMPO FC VS HWASEONG FC - HD 1
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel12/off-tvc?is_off_add=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel12/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
+https://live1.quickscoreboardz.com/live/channel12.flv?wsSecret=ba69a124eaa7493dd9c52fa2ba45a7a1&wsABSTime=1795940456
+#EXTINF:-1 group-title="Football",12:00 - 29/11 - GYEONGNAM FC VS SEOUL E-LAND FC - HD 1
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel10/off-tvc?is_off_add=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel10/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
+https://live1.quickscoreboardz.com/live/channel10.flv?wsSecret=e55c2a47c4ce750cffcc2004f44b82d2&wsABSTime=1795940471
+#EXTINF:-1 group-title="Football",12:00 - 29/11 - JEONNAM DRAGONS VS SUWON SAMSUNG - HD 1
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel11/off-tvc?is_off_add=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel11/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
+https://live1.quickscoreboardz.com/live/channel11.flv?wsSecret=d5506a2bb7d296c6933674968b74415a&wsABSTime=1795940501
+#EXTINF:-1 group-title="Football",12:00 - 29/11 - JUBILO IWATA VS TOCHIGI CITY - HD 1
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel15/off-tvc?is_off_add=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel15/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
+https://live1.quickscoreboardz.com/live/channel15.flv?wsSecret=808a3c1579d4d6dcf6d384f3d6d75e53&wsABSTime=1795940507
+#EXTINF:-1 group-title="Football",12:00 - 29/11 - MITO HOLLYHOCK VS V-VAREN NAGASAKI - XMEN
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel13/off-tvc?is_off_add=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel13/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
+https://live3979.zundrixmediapipeline.com/live/channel13.flv
+#EXTINF:-1 group-title="Football",12:00 - 29/11 - MITO HOLLYHOCK VS V-VAREN NAGASAKI - HD XMEN
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-13/off-tvc?is_off_add=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-13/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
+https://live2.streamhaulcdn.com/livecdn/channel-13.flv?auth_key=3000001795897345-0-0-1c8d29a30b2171220ae2595801bf2f0c
+#EXTINF:-1 group-title="Football",12:00 - 29/11 - MIYAZAKI VS SAGAN TOSU - HD 1
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel16/off-tvc?is_off_add=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel16/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
+https://live1.quickscoreboardz.com/live/channel16.flv?wsSecret=bcb3daec92e8343ba69ad26d302faaf6&wsABSTime=1795940541
+#EXTINF:-1 group-title="Football",12:00 - 29/11 - OITA TRINITA VS TOKUSHIMA VORTIS - HD 1
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel14/off-tvc?is_off_add=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel14/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
+https://live1.quickscoreboardz.com/live/channel14.flv?wsSecret=6db0604a7c53dced60a563f9921afdd9&wsABSTime=1795940605
+#EXTINF:-1 group-title="Football",12:00 - 29/11 - SHONAN BELLMARE VS KATALLER TOYAMA - HD 1
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel17/off-tvc?is_off_add=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel17/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
+https://live1.quickscoreboardz.com/live/channel17.flv?wsSecret=69e895eb7d3069667371975460e13c91&wsABSTime=1795940694
+#EXTINF:-1 group-title="Football",12:00 - 29/11 - SUWON FC VS CHEONGJU FC - HD 1
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel7/off-tvc?is_off_add=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel7/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
+https://live1.quickscoreboardz.com/live/channel7.flv?wsSecret=03ca25402df27e1cfb8b0bdc0172d6f6&wsABSTime=1795940703
+#EXTINF:-1 group-title="Football",12:00 - 29/11 - ULSAN HYUNDAI VS JEONBUK HYUNDAI - ZANE
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel22/off-tvc?is_off_add=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel22/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
+https://live3979.zundrixmediapipeline.com/live/channel22.flv
+#EXTINF:-1 group-title="Football",12:00 - 29/11 - ULSAN HYUNDAI VS JEONBUK HYUNDAI - HD ZANE
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-22/off-tvc?is_off_add=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-22/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
+https://live2.streamhaulcdn.com/livecdn/channel-22.flv?auth_key=3000001795897531-0-0-815006897af3b30c44a0cf8cf5c12114
+#EXTINF:-1 group-title="Football",12:00 - 29/11 - VEGALTA SENDAI VS M. YAMAGATA - HD 1
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel13/off-tvc?is_off_add=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel13/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
+https://live1.quickscoreboardz.com/live/channel13.flv?wsSecret=9b61efc61602e0525a649cd4dcc63a9c&wsABSTime=1795940732
+#EXTINF:-1 group-title="Football",12:00 - 29/11 - YOKOHAMA MARINOS VS FC TOKYO - TOM
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel4/off-tvc?is_off_add=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel4/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
+https://live3979.zundrixmediapipeline.com/live/channel4.flv
+#EXTINF:-1 group-title="Football",12:00 - 29/11 - YOKOHAMA MARINOS VS FC TOKYO - HD TOM
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-4/off-tvc?is_off_add=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-4/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
+https://live2.streamhaulcdn.com/livecdn/channel-4.flv?auth_key=3000001795897554-0-0-b1500b8d0d5f02007db71cbb857c1432
 #EXTINF:-1 group-title="Basketball",13:00 - 29/11 - SYRIA VS NEW ZEALAND - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel40/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel40/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=23685f7ddb243c726ebdbe55d5e3d547&wsABSTime=1795937127
+https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=3b3f7fa93bfd647ea5c2e56afa2d4de7&wsABSTime=1795940710
 #EXTINF:-1 group-title="Volleyball",14:00 - 29/11 - CÔNG AN TPHCM VS LP BANK NINH BÌNH - TYSON
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel33/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -813,17 +768,17 @@ https://live3979.zundrixmediapipeline.com/live/channel33.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-33/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-33/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-33.flv?auth_key=3000001795893647-0-0-cb8606917727456e3c619dc43f00c5ac
+https://live2.streamhaulcdn.com/livecdn/channel-33.flv?auth_key=3000001795897221-0-0-3ec36721e598207c5a11c0ed32046589
 #EXTINF:-1 group-title="Basketball",14:00 - 29/11 - NỮ BNK SUM VS NỮ SAMSUNGLIFE BLUEMINX - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel41/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel41/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel41.flv?wsSecret=f6a827d176e2e30ab886cdcd61d6c05e&wsABSTime=1795936990
+https://live1.quickscoreboardz.com/live/channel41.flv?wsSecret=8537d2ee97737902219150daf9cee225&wsABSTime=1795940563
 #EXTINF:-1 group-title="Basketball",14:00 - 29/11 - WASEDA UNIVERSITY VS KOREA UNIVERSITY - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel42/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel42/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel42.flv?wsSecret=7ac135120bc46565a2e27ac299088705&wsABSTime=1795937158
+https://live1.quickscoreboardz.com/live/channel42.flv?wsSecret=cf93bf08f886d9c09b0af7977976839f&wsABSTime=1795940742
 #EXTINF:-1 group-title="Tennis",15:00 - 29/11 - OLEKSANDR OVCHARENKO VS PHILIP HENNING - VIC
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel32/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -833,7 +788,7 @@ https://live3979.zundrixmediapipeline.com/live/channel32.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-32/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-32/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-32.flv?auth_key=3000001795893840-0-0-eeacdb6cd7c771f5f7fec3e4594ad6d4
+https://live2.streamhaulcdn.com/livecdn/channel-32.flv?auth_key=3000001795897413-0-0-8d2002201ece6ba428c7d63550cb8a73
 #EXTINF:-1 group-title="Basketball",15:00 - 29/11 - THÁI LAN VS HỒNG KÔNG - ALAN
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel25/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -843,12 +798,12 @@ https://live3979.zundrixmediapipeline.com/live/channel25.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-25/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-25/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-25.flv?auth_key=3000001795893937-0-0-614edd292e42ad170d19a0d59e7485e4
+https://live2.streamhaulcdn.com/livecdn/channel-25.flv?auth_key=3000001795897521-0-0-5861249e302b0a8bd620331c7522c70c
 #EXTINF:-1 group-title="Basketball",16:00 - 29/11 - IRAN VS PHILIPPINES - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel44/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel44/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel44.flv?wsSecret=dad2cf6e8e702e711dec879d0c5dbbc5&wsABSTime=1795936926
+https://live1.quickscoreboardz.com/live/channel44.flv?wsSecret=57766c7670471fa88b263184fe8cd6c9&wsABSTime=1795940494
 #EXTINF:-1 group-title="Volleyball",17:00 - 29/11 - NỮ FENERBAHCE VS NỮ ILBANK - TYSON
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel33/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -858,12 +813,12 @@ https://live3979.zundrixmediapipeline.com/live/channel33.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-33/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-33/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-33.flv?auth_key=3000001795893806-0-0-33607ddbdd44b39c3578bd13d39dd7a1
+https://live2.streamhaulcdn.com/livecdn/channel-33.flv?auth_key=3000001795897374-0-0-4d78333fffae2b479b5163d2eef71629
 #EXTINF:-1 group-title="Basketball",18:00 - 29/11 - MÔNG CỔ VS MALAYSIA - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel40/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel40/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=1a1b499b6f51510fec1db7bd2258cce2&wsABSTime=1795936969
+https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=d4c5cfae8771f13aa7664f5c4d7b3689&wsABSTime=1795940543
 #EXTINF:-1 group-title="Basketball",19:00 - 29/11 - JORDAN VS AUSTRALIA - TOMMY
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel29/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -873,7 +828,7 @@ https://live3979.zundrixmediapipeline.com/live/channel29.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-29/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-29/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-29.flv?auth_key=3000001795893738-0-0-c3ebd26e340cb5730a704b1ddb779c70
+https://live2.streamhaulcdn.com/livecdn/channel-29.flv?auth_key=3000001795897310-0-0-1dc93020b13bc78c79f8eb3fadf35b4c
 #EXTINF:-1 group-title="Basketball",20:00 - 29/11 - QATAR VS NHẬT BẢN - KOBE
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel27/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -883,7 +838,7 @@ https://live3979.zundrixmediapipeline.com/live/channel27.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-27/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-27/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-27.flv?auth_key=3000001795893877-0-0-df68735712b56c988bdc17f4815457de
+https://live2.streamhaulcdn.com/livecdn/channel-27.flv?auth_key=3000001795897445-0-0-24ee488a7a908053eeefb1be74dc709e
 #EXTINF:-1 group-title="Volleyball",22:00 - 29/11 - NỮ ECZACIBASI VS NỮ GALATASARAY - TYSON
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel33/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -893,32 +848,32 @@ https://live3979.zundrixmediapipeline.com/live/channel33.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-33/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-33/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-33.flv?auth_key=3000001795893804-0-0-570844c46cc240fed6ad3a7dcc121ac4
+https://live2.streamhaulcdn.com/livecdn/channel-33.flv?auth_key=3000001795897372-0-0-3dfb78efc527611ef6fd4dd36d595077
 #EXTINF:-1 group-title="Basketball",22:30 - 29/11 - GEORGIA VS BỒ ĐÀO NHA - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel40/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel40/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=8a2b6a1f7f3aefca7165634e35215064&wsABSTime=1795936888
+https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=75b8b1c0b1230fb8c05e05665c54a127&wsABSTime=1795940454
 #EXTINF:-1 group-title="Basketball",23:00 - 29/11 - Ả RẬP XÊ ÚT VS HÀN QUỐC - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel42/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel42/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel42.flv?wsSecret=d9d076c65d600227c3343a25c4ec00d3&wsABSTime=1795936768
+https://live1.quickscoreboardz.com/live/channel42.flv?wsSecret=09e3afd764cd246aca10ae023ec6b7d5&wsABSTime=1795940338
 #EXTINF:-1 group-title="Basketball",23:00 - 29/11 - ROMANIA VS ĐAN MẠCH - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel41/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel41/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel41.flv?wsSecret=6d047da19d5317fde2e5890f98ad8b3b&wsABSTime=1795937090
+https://live1.quickscoreboardz.com/live/channel41.flv?wsSecret=5a987c15241d87fd08a868027b2b1561&wsABSTime=1795940661
 #EXTINF:-1 group-title="Basketball",23:00 - 29/11 - THỔ NHĨ KỲ VS ICELAND - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel43/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel43/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel43.flv?wsSecret=f1bf63847073abb8752ebd926e383645&wsABSTime=1795937133
+https://live1.quickscoreboardz.com/live/channel43.flv?wsSecret=791070fc683eed3ef8142e57c6be5bcd&wsABSTime=1795940716
 #EXTINF:-1 group-title="Basketball",00:00 - 30/11 - ÁO VS ĐẢO SÍP - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel44/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel44/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel44.flv?wsSecret=280322b38aa049aa703fa45281a03a9d&wsABSTime=1795936781
+https://live1.quickscoreboardz.com/live/channel44.flv?wsSecret=42f9e614b35074b85762b45c6f527444&wsABSTime=1795940345
 #EXTINF:-1 group-title="Volleyball",01:00 - 30/11 - PERUGIA VS MODENA - TYSON
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel33/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -928,22 +883,22 @@ https://live3979.zundrixmediapipeline.com/live/channel33.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-33/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-33/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-33.flv?auth_key=3000001795893853-0-0-79c7503834df0d5f9bb475f7adadb953
+https://live2.streamhaulcdn.com/livecdn/channel-33.flv?auth_key=3000001795897424-0-0-0ca6f6fa8f422dc56ad1316f9f945773
 #EXTINF:-1 group-title="Basketball",01:00 - 30/11 - SERBIA VS ITALY - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel45/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel45/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel45.flv?wsSecret=3dd26982fe7a6209edcbb3d4cf910f0c&wsABSTime=1795937112
+https://live1.quickscoreboardz.com/live/channel45.flv?wsSecret=c32cc643973f98163bb68cb0e3082044&wsABSTime=1795940687
 #EXTINF:-1 group-title="Basketball",02:00 - 30/11 - LEBANON VS TRUNG QUỐC - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel40/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel40/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=d4b5705883453c91ee07beaf58620917&wsABSTime=1795936946
+https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=8b9253c9869173a4d0c503b6e0638504&wsABSTime=1795940518
 #EXTINF:-1 group-title="Basketball",03:00 - 30/11 - MOTOR CITY CRUISE VS WINDY CITY BULLS - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel41/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel41/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel41.flv?wsSecret=f89d827f6568fb8fd2bed795099760f3&wsABSTime=1795936973
+https://live1.quickscoreboardz.com/live/channel41.flv?wsSecret=10ff5f131affe700bf497d4c16e79bc8&wsABSTime=1795940546
 #EXTINF:-1 group-title="Basketball",03:30 - 30/11 - CLEVELAND CAVALIERS VS MIAMI HEAT - KOBE
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel27/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -953,7 +908,7 @@ https://live3979.zundrixmediapipeline.com/live/channel27.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-27/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-27/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-27.flv?auth_key=3000001795893630-0-0-60108a1e6c0b2364804f39df634ab7ba
+https://live2.streamhaulcdn.com/livecdn/channel-27.flv?auth_key=3000001795897201-0-0-0c7c1059eb2180d713b438299b2336da
 #EXTINF:-1 group-title="Basketball",04:00 - 30/11 - MEMPHIS GRIZZLIES VS LOS ANGELES LAKERS - TOMMY
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel29/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -963,32 +918,32 @@ https://live3979.zundrixmediapipeline.com/live/channel29.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-29/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-29/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-29.flv?auth_key=3000001795893766-0-0-920e1a886f99d23dc77c5ce02df9142e
+https://live2.streamhaulcdn.com/livecdn/channel-29.flv?auth_key=3000001795897336-0-0-aba11f13f4e438488f2f2c675e28470e
 #EXTINF:-1 group-title="Basketball",04:00 - 30/11 - SAN ANTONIO SPURS VS BOSTON CELTICS - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel43/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel43/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel43.flv?wsSecret=ae4d6cec63fdce9f9f37530f17905c50&wsABSTime=1795937104
+https://live1.quickscoreboardz.com/live/channel43.flv?wsSecret=2882aba8af8d9fc70aaaa9162c27c7bb&wsABSTime=1795940676
 #EXTINF:-1 group-title="Basketball",04:10 - 30/11 - ARGENTINA VS CANADA - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel45/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel45/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel45.flv?wsSecret=b77a3cd787abe5fe5caf023d0a3f0a68&wsABSTime=1795936781
+https://live1.quickscoreboardz.com/live/channel45.flv?wsSecret=b0e5c7cf0d6895c455d4e697cd50d105&wsABSTime=1795940352
 #EXTINF:-1 group-title="Basketball",05:00 - 30/11 - SALT LAKE CITY STARS VS SAN DIEGO CLIPPERS - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel47/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel47/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel47.flv?wsSecret=7aee1b7eaed960bc701b1455255ff3f9&wsABSTime=1795937100
+https://live1.quickscoreboardz.com/live/channel47.flv?wsSecret=11c6f363671f433dd5331fb6af735a79&wsABSTime=1795940677
 #EXTINF:-1 group-title="Basketball",05:00 - 30/11 - UTAH JAZZ VS PHOENIX SUNS - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel46/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel46/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel46.flv?wsSecret=2dc9b97660eebc7e3f55a929113f100e&wsABSTime=1795937142
+https://live1.quickscoreboardz.com/live/channel46.flv?wsSecret=94fc9b92943b9a2af117233df9d12f1e&wsABSTime=1795940729
 #EXTINF:-1 group-title="Basketball",06:00 - 30/11 - DETROIT PISTONS VS ORLANDO MAGIC - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel40/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel40/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=812cc1a191bffe12d0240a171580937c&wsABSTime=1795936862
+https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=7a6731300c10625f8084302b2663c3c5&wsABSTime=1795940436
 #EXTINF:-1 group-title="Basketball",06:00 - 30/11 - NEW YORK KNICKS VS ATLANTA HAWKS - KOBE
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel27/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -998,7 +953,7 @@ https://live3979.zundrixmediapipeline.com/live/channel27.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-27/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-27/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-27.flv?auth_key=3000001795893787-0-0-b9117c4eda8b2123d62a116c997b6cec
+https://live2.streamhaulcdn.com/livecdn/channel-27.flv?auth_key=3000001795897360-0-0-ada842ddbc3210ddd1b393333aa40ba2
 #EXTINF:-1 group-title="Basketball",06:00 - 30/11 - PORTLAND TRAIL BLAZERS VS NEW ORLEANS PELICANS - ALAN
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel25/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -1008,22 +963,22 @@ https://live3979.zundrixmediapipeline.com/live/channel25.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-25/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-25/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-25.flv?auth_key=3000001795893866-0-0-10ad945a9e1afc4f8564072e9300073c
+https://live2.streamhaulcdn.com/livecdn/channel-25.flv?auth_key=3000001795897437-0-0-829209342385f4d13aa72396a8d99d23
 #EXTINF:-1 group-title="Basketball",06:00 - 30/11 - TORONTO RAPTORS VS DENVER NUGGETS - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel41/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel41/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel41.flv?wsSecret=ea1b61743e7ea3758ecc71a900a7f842&wsABSTime=1795937138
+https://live1.quickscoreboardz.com/live/channel41.flv?wsSecret=9f6287312e2efcc515469a76ac216029&wsABSTime=1795940723
 #EXTINF:-1 group-title="Basketball",06:10 - 30/11 - PANAMA VS BAHAMAS - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel49/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel49/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel49.flv?wsSecret=9d81c9289f931a24adc3911b70b8998e&wsABSTime=1795937043
+https://live1.quickscoreboardz.com/live/channel49.flv?wsSecret=7298e9411d538d77d42cd61fa62678d4&wsABSTime=1795940616
 #EXTINF:-1 group-title="Basketball",07:10 - 30/11 - PUERTO RICO VS URUGUAY - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel43/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel43/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel43.flv?wsSecret=064ebf2ab332bd3cc84c7e8b3c8ed5f0&wsABSTime=1795937069
+https://live1.quickscoreboardz.com/live/channel43.flv?wsSecret=ac6b7a39f14fed53ad9d85b47279cb10&wsABSTime=1795940641
 #EXTINF:-1 group-title="Basketball",08:30 - 30/11 - GOLDEN STATE WARRIORS VS LOS ANGELES CLIPPERS - TOMMY
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel29/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -1033,7 +988,7 @@ https://live3979.zundrixmediapipeline.com/live/channel29.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-29/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-29/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-29.flv?auth_key=3000001795893695-0-0-89a4a3af9398e930bd206d9449e57462
+https://live2.streamhaulcdn.com/livecdn/channel-29.flv?auth_key=3000001795897263-0-0-8bdb456a12c8ae0add9fd28d7cc861e4
 #EXTINF:-1 group-title="Basketball",09:00 - 30/11 - SACRAMENTO KINGS VS MINNESOTA TIMBERWOLVES - ALAN
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel25/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -1043,174 +998,174 @@ https://live3979.zundrixmediapipeline.com/live/channel25.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-25/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-25/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-25.flv?auth_key=3000001795893901-0-0-8357d3d09505e1bb8bab3d80c738d552
+https://live2.streamhaulcdn.com/livecdn/channel-25.flv?auth_key=3000001795897473-0-0-dff464aa84bfb18c5eecac6dc169b179
 #EXTINF:-1 group-title="Basketball",10:35 - 30/11 - TRYHOOP OKAYAMA VS FIGHTING EAGLES NAGOYA - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel46/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel46/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel46.flv?wsSecret=d6ceab238b839cee49160e0b5d32b674&wsABSTime=1795937140
+https://live1.quickscoreboardz.com/live/channel46.flv?wsSecret=f43bd8adad73f17aff34c3a9a8e414ba&wsABSTime=1795940723
 #EXTINF:-1 group-title="Basketball",17:00 - 30/11 - NỮ WOORI WIBEE VS NỮ SINHAN BANK - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel40/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel40/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=a3f0d6b0492b638f2632aa85f4ed8fd2&wsABSTime=1795937030
+https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=e0691154a6d4edbf2f559fdd0813c689&wsABSTime=1795940601
 #EXTINF:-1 group-title="Basketball",18:30 - 30/11 - HANGZHOU JINGWEI VS YANTAI WHITE SWALLOW - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel41/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel41/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel41.flv?wsSecret=4b9a4be61bf38b02e78e286fb7dd15d3&wsABSTime=1795936903
+https://live1.quickscoreboardz.com/live/channel41.flv?wsSecret=e4d3e95feca710213fcb3b23fe72725e&wsABSTime=1795940472
 #EXTINF:-1 group-title="Basketball",19:00 - 30/11 - SRI LANKA VS KUWAIT - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel42/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel42/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel42.flv?wsSecret=b379bca83c0d2bfe7b7840c6aa276aea&wsABSTime=1795937123
+https://live1.quickscoreboardz.com/live/channel42.flv?wsSecret=1ce7aa0b16c1a03e79e6590ac8f63a2a&wsABSTime=1795940706
 #EXTINF:-1 group-title="Basketball",22:00 - 30/11 - KAZAKHSTAN VS UNITED ARAB EMIRATES - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel43/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel43/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel43.flv?wsSecret=b315732e5f002c09bae1a2db62858bd9&wsABSTime=1795936934
+https://live1.quickscoreboardz.com/live/channel43.flv?wsSecret=4706479cb2e740f048fc8f0e6ec2aaaa&wsABSTime=1795940509
 #EXTINF:-1 group-title="Basketball",23:30 - 30/11 - PHẦN LAN VS ESTONIA - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel40/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel40/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=4de6115187eae3ff99cbb949bc030323&wsABSTime=1795937049
+https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=136e5cd7ff6f927f95e68fe48bd2799e&wsABSTime=1795940621
 #EXTINF:-1 group-title="Basketball",00:00 - 01/12 - HUNGARY VS SLOVENIA - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel41/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel41/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel41.flv?wsSecret=11c7957039c0b1411f7defd897048492&wsABSTime=1795936915
+https://live1.quickscoreboardz.com/live/channel41.flv?wsSecret=c6889abbc7099e47b9018b65bdbbbee1&wsABSTime=1795940485
 #EXTINF:-1 group-title="Basketball",00:30 - 01/12 - ISRAEL VS LATVIA - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel42/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel42/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel42.flv?wsSecret=84ed1dca4ea51b1274512f1fa66aae88&wsABSTime=1795936928
+https://live1.quickscoreboardz.com/live/channel42.flv?wsSecret=f787c956f755f7e100d145ecedba799d&wsABSTime=1795940497
 #EXTINF:-1 group-title="Basketball",01:00 - 01/12 - PALESTINE VS BAHRAIN - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel43/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel43/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel43.flv?wsSecret=0ca76f6ded8a3b983f412ced55c18842&wsABSTime=1795937039
+https://live1.quickscoreboardz.com/live/channel43.flv?wsSecret=d640e2a69395d447a3a492d65bb0288a&wsABSTime=1795940612
 #EXTINF:-1 group-title="Basketball",01:30 - 01/12 - ĐỨC VS BA LAN - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel44/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel44/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel44.flv?wsSecret=b6e1b84803b1483102f9634def541d8a&wsABSTime=1795936864
+https://live1.quickscoreboardz.com/live/channel44.flv?wsSecret=37caf42f9ec75396b4dadc32e08c92b3&wsABSTime=1795940438
 #EXTINF:-1 group-title="Basketball",02:00 - 01/12 - CROATIA VS HÀ LAN - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel45/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel45/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel45.flv?wsSecret=3db0a7c410fbba997e01a0d9ddceafe2&wsABSTime=1795936846
+https://live1.quickscoreboardz.com/live/channel45.flv?wsSecret=5cba2f9384858b8a8a4edac539771227&wsABSTime=1795940418
 #EXTINF:-1 group-title="Basketball",02:30 - 01/12 - PHÁP VS THỤY ĐIỂN - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel46/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel46/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel46.flv?wsSecret=b8f35237b27c56b4fbb4e19fefeb9ab6&wsABSTime=1795937052
+https://live1.quickscoreboardz.com/live/channel46.flv?wsSecret=88c1dbd83b1a37aef35bcfd88cd282c5&wsABSTime=1795940623
 #EXTINF:-1 group-title="Basketball",05:40 - 01/12 - CHILE VS DOMINICAN REPUBLIC - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel40/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel40/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=42a404f7ff471c7f51ae8049fcceaac7&wsABSTime=1795936822
+https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=351859ae01c6b6333d9488463cda2ec3&wsABSTime=1795940391
 #EXTINF:-1 group-title="Basketball",06:10 - 01/12 - BRAZIL VS MEXICO - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel41/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel41/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel41.flv?wsSecret=30c8134e89f6d1cd6b559e129d04c7eb&wsABSTime=1795936803
+https://live1.quickscoreboardz.com/live/channel41.flv?wsSecret=a89502e77fb7cf3c99d6ffe6257b714e&wsABSTime=1795940368
 #EXTINF:-1 group-title="Basketball",07:00 - 01/12 - CHARLOTTE HORNETS VS WASHINGTON WIZARDS - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel43/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel43/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel43.flv?wsSecret=f3dee70097d4da869e23c69fef6e0b14&wsABSTime=1795936815
+https://live1.quickscoreboardz.com/live/channel43.flv?wsSecret=0a5d67a8c4b62727134896509bcb9d03&wsABSTime=1795940381
 #EXTINF:-1 group-title="Basketball",07:00 - 01/12 - COLLEGE PARK SKYHAWKS VS MAINE CELTICS - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel44/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel44/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel44.flv?wsSecret=37669e9ff672104c5006ac56a412f7e3&wsABSTime=1795936835
+https://live1.quickscoreboardz.com/live/channel44.flv?wsSecret=393762aecce42fc4b7bf75fd07f1e7e3&wsABSTime=1795940409
 #EXTINF:-1 group-title="Basketball",07:00 - 01/12 - DETROIT PISTONS VS DENVER NUGGETS - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel42/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel42/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel42.flv?wsSecret=18b169eca94536d42d3101c192615262&wsABSTime=1795936860
+https://live1.quickscoreboardz.com/live/channel42.flv?wsSecret=28cb0c8cd4a95e69c22d310e5eeeefd8&wsABSTime=1795940434
 #EXTINF:-1 group-title="Basketball",07:30 - 01/12 - BROOKLYN NETS VS OKLAHOMA CITY THUNDER - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel46/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel46/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel46.flv?wsSecret=e8c4a3d65a32a2cfeb353a1297831ca3&wsABSTime=1795936807
+https://live1.quickscoreboardz.com/live/channel46.flv?wsSecret=56d388d9d1645722769f654ec98435be&wsABSTime=1795940375
 #EXTINF:-1 group-title="Basketball",07:30 - 01/12 - HOUSTON ROCKETS VS LOS ANGELES LAKERS - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel45/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel45/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel45.flv?wsSecret=01a6c27440154efa715b192271cce9a8&wsABSTime=1795936911
+https://live1.quickscoreboardz.com/live/channel45.flv?wsSecret=d7547b3cd043d1e37bc3b830d1b7ed0b&wsABSTime=1795940481
 #EXTINF:-1 group-title="Basketball",08:00 - 01/12 - DALLAS MAVERICKS VS BOSTON CELTICS - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel48/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel48/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel48.flv?wsSecret=780c74e990e720ace4195c9e6a45b87b&wsABSTime=1795936850
+https://live1.quickscoreboardz.com/live/channel48.flv?wsSecret=4a37dd5952f6cacecf467540a2f3e0e1&wsABSTime=1795940423
 #EXTINF:-1 group-title="Basketball",08:00 - 01/12 - MILWAUKEE BUCKS VS SAN ANTONIO SPURS - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel47/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel47/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel47.flv?wsSecret=ac7c4e41a46e0359af6592fd24052e02&wsABSTime=1795936965
+https://live1.quickscoreboardz.com/live/channel47.flv?wsSecret=b999a8586f4d53a9b311695ba5a197b7&wsABSTime=1795940535
 #EXTINF:-1 group-title="Basketball",08:00 - 01/12 - RIO GRANDE VIPERS VS MEMPHIS HUSTLE - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel49/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel49/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel49.flv?wsSecret=0e88f76a1110c16e094010f298dd5e4d&wsABSTime=1795937081
+https://live1.quickscoreboardz.com/live/channel49.flv?wsSecret=0b2eb8a2dcd0de68d1ed2a099f796960&wsABSTime=1795940649
 #EXTINF:-1 group-title="Basketball",08:10 - 01/12 - COLOMBIA VS USA - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel40/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel40/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=e65a01399e9a0657bf16f66254a25422&wsABSTime=1795936840
+https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=b3caf4fe64dc1645c2f0565716a1b762&wsABSTime=1795940411
 #EXTINF:-1 group-title="Basketball",10:00 - 01/12 - SACRAMENTO KINGS VS NEW ORLEANS PELICANS - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-1/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-1/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live2.streamhaulcdn.com/livecdn/channel-1.flv?auth_key=3000001795893898-0-0-2391f0d8641e6ab048000e265af0b107
+https://live2.streamhaulcdn.com/livecdn/channel-1.flv?auth_key=3000001795897470-0-0-16183c029b6d21c10c6b1fc49ffaa166
 #EXTINF:-1 group-title="Basketball",14:00 - 01/12 - CTBC BUSINESS SCHOOL VS I-SHOU UNIVERSITY - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel40/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel40/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=696aeb7701a4bfd3efc41bd19a23f082&wsABSTime=1795936848
+https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=0d008776987dba5612d77d107df7566b&wsABSTime=1795940422
 #EXTINF:-1 group-title="Basketball",15:00 - 01/12 - NỮ MELBOURNE BOOMERS VS NỮ TOWNSVILLE FIRE - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel41/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel41/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel41.flv?wsSecret=f28a706f868f4155f81cc094ce91a1e9&wsABSTime=1795937009
+https://live1.quickscoreboardz.com/live/channel41.flv?wsSecret=a582d2f2ad08e6aece8c23cf149e23d2&wsABSTime=1795940577
 #EXTINF:-1 group-title="Basketball",16:00 - 01/12 - NATIONAL FORMASA (R) VS UNIVERSITY OF TAIPEI - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel42/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel42/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel42.flv?wsSecret=8ca6b46b6bc48f9fc915d954f1cd4c7e&wsABSTime=1795936980
+https://live1.quickscoreboardz.com/live/channel42.flv?wsSecret=78a52f59dd927e3313bcdaea2e687dd9&wsABSTime=1795940552
 #EXTINF:-1 group-title="Basketball",18:30 - 01/12 - JIANGXI DAQIAN VS HỒNG KÔNG BULLS - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel42/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel42/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel42.flv?wsSecret=055a0badf1a240ae01bb2f85a1c7c327&wsABSTime=1795936932
+https://live1.quickscoreboardz.com/live/channel42.flv?wsSecret=f365e6cef55a8984d1edb8518ad99f77&wsABSTime=1795940503
 #EXTINF:-1 group-title="Basketball",18:30 - 01/12 - NỮ JIANSU NANGANG VS NỮ WUHAN SHENG - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel41/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel41/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel41.flv?wsSecret=be980fa45e1deac0eb88de6ff70a79b5&wsABSTime=1795937005
+https://live1.quickscoreboardz.com/live/channel41.flv?wsSecret=8a7e577c439e62f9dc6635ac40cbda81&wsABSTime=1795940574
 #EXTINF:-1 group-title="Basketball",18:30 - 01/12 - NỮ SHANDONG SPEED VS NỮ SHANGHAI BAOSHAN - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel40/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel40/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=bae25e1fd073978cb7e5c120a581322f&wsABSTime=1795937024
+https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=472c37fbde3b76555ff826f967103e4c&wsABSTime=1795940595
 #EXTINF:-1 group-title="Basketball",22:30 - 01/12 - NỮ CLUJ NAPOCA VS NỮ ELITZUR RAMLA - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel40/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel40/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=e78053a5a8c8842bcc1decfc3c2005d2&wsABSTime=1795936994
+https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=1428f26f7f0caee2cd4713150e481194&wsABSTime=1795940565
 #EXTINF:-1 group-title="Esports",01:00 - 03/12 - ZERO TENACITY VS TEAM SYNAPSE - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel70/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel70/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel70.flv?wsSecret=34a7c3fea42a1fc71c428c60d09d9f6f&wsABSTime=1795937164
+https://live1.quickscoreboardz.com/live/channel70.flv?wsSecret=0c08ddac7a951b55287a12aefd1a27ff&wsABSTime=1795940750
 #EXTINF:-1 group-title="Esports",19:00 - 03/12 - TEAM SYNAPSE VS V - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel71/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel71/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel71.flv?wsSecret=cfba4d59060d305f2bb53acc620f4d7e&wsABSTime=1795937129
+https://live1.quickscoreboardz.com/live/channel71.flv?wsSecret=296ba301380dbdeddcdc20d5e7cc89da&wsABSTime=1795940713
 #EXTINF:-1 group-title="Esports",22:00 - 03/12 - 4IKIBAMBONI VS TEAM SYNAPSE - HD 1
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel70/off-tvc?is_off_add=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel70/off-tvc?is_off_add=false","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"}
-https://live1.quickscoreboardz.com/live/channel70.flv?wsSecret=36abac672b92ace41216013ab1b58d1c&wsABSTime=1795936768
+https://live1.quickscoreboardz.com/live/channel70.flv?wsSecret=2fc121e0c46a4f33b227e8d32c34b007&wsABSTime=1795940338
